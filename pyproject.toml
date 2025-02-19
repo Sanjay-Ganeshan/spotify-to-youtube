@@ -6,17 +6,17 @@ build-backend = "setuptools.build_meta"
 name = "spot2yt"
 version = "0.0.1"
 authors = [
-  { name="Example Author", email="author@example.com" },
+  { name="Julie Ganeshan", email="heavenlyqueen@outlook.com" },
 ]
-description = "A small example package"
+description = "A small helper package that converts spotify playlists into youtube playlists"
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
-    "License :: OSI Approved :: MIT License",
+    "License :: OSI Approved :: Apache License",
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/Sanjay-Ganeshan/spotify-to-youtube"
+Issues = "https://github.com/Sanjay-Ganeshan/spotify-to-youtube/issues"
